@@ -8,16 +8,16 @@ I started in network engineering and security operations, where I worked directl
 
 **🧰 What I've Worked On**
 
-Security monitoring: SOC operations, alert triage, and event analysis
-Incident reporting: documenting incidents clearly for technical and non-technical audiences
-Endpoint security rollout: deploying and supporting endpoint protection across client environments
-Network engineering: the infrastructure side of security
-Access control: designing and managing access across multiple client environments
+- Security monitoring: SOC operations, alert triage, and event analysis
+- Incident reporting: documenting incidents clearly for technical and non-technical audiences
+- Endpoint security rollout: deploying and supporting endpoint protection across client environments
+- Network engineering: the infrastructure side of security
+- Access control: designing and managing access across multiple client environments
 
 **🛠️ Skills**
 
 Incident Response · Security Monitoring · Endpoint Security · Network Security · ISO 27001 · NIST CSF · Risk Assessment · Security Documentation · Access Control 
 
 **📫 Connect With Me**
-LinkedIn: http://www.linkedin.com/in/meetmehta20
-Email: meetmehta1720@outlook.com
+- LinkedIn: http://www.linkedin.com/in/meetmehta20
+- Email: meetmehta1720@outlook.com
