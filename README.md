@@ -8,8 +8,7 @@ Security Professional | SOC → GRC
 └─$ cat profile.txt
   background   : SOC, Network Engineering
   currentFocus : GRC - ISO 27001 & NIST CSF
-  askMeAbout   : Endpoint Security, Incident Response,
-                 Compliance, Security Monitoring
+  askMeAbout   : Endpoint Security, Incident Response, Compliance, Security Monitoring
 
 ┌──(you㉿security)-[~/profile]
 └─$ ./learning_progress.sh
